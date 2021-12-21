@@ -1,5 +1,0 @@
-#ifndef _LIBRERIA
-#define _LIBRERIA
-float resta(float d1,float d2);
-#include  ″resta.c″
-#endif
