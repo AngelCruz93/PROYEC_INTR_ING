@@ -1,0 +1,21 @@
+#include <iostream>
+#include <stdio.h>
+
+int main()
+{
+
+	float d1, d2, resta;
+
+	printf("introduzca primer numero: ");
+	scanf_s("%f", &d1);
+
+	printf("Introduzca el segundo numero: ");
+	scanf_s("%f", &d2);
+
+	resta = d1 - d2;
+
+	printf("El resultado de la resta es: %f", resta);
+
+
+	return 0;
+}
